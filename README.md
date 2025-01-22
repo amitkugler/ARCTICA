@@ -21,3 +21,4 @@ Thereafter, using logistic regression for feature selection and extracting featu
 * Seaborn 0.12.2
 * Scipy 1.7.3
 * Scikit-learn 1.2.2
+* COBRApy 0.20.0
